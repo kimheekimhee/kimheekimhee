@@ -1,3 +1,3 @@
-# HI
+# Junior BE
 
-HI
+Python Django
