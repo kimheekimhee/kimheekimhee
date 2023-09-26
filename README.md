@@ -1,4 +1,4 @@
-![Top Langs](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Junior_SW_Engineer&fontSize=90)  
+![Top Langs](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kimhee's&nbsp;Github&fontSize=90)  
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
